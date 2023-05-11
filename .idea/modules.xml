@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/LFO3.iml" filepath="$PROJECT_DIR$/LFO3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Regal/Regal.iml" filepath="$PROJECT_DIR$/Regal/Regal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonPatterns/SingletonPatterns.iml" filepath="$PROJECT_DIR$/SingletonPatterns/SingletonPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sortieralgorhythmen/Sortieralgorhythmen.iml" filepath="$PROJECT_DIR$/Sortieralgorhythmen/Sortieralgorhythmen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stadion/Stadion.iml" filepath="$PROJECT_DIR$/Stadion/Stadion.iml" />
     </modules>
   </component>
 </project>

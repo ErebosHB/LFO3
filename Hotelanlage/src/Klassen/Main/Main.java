@@ -15,7 +15,7 @@ public class Main {
         Gast karl = new Gast("karl","Scholz",adresse,3);
         Gast erich = new Gast("erich","Scholz",adresse,4);
 
-        GastDAO gastDAO = new GastDAO();
+        GastDAO gastDAO = GastDAO.getInstance();
         try {
             gastDAO.insert(olaf);
             gastDAO.insert(max);
